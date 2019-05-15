@@ -19,5 +19,7 @@ Follow-up needs to be optimized if test report use cases are written to excl
 Function:
 
 Execute Python files directly on MAC or Linux
+There is only one file and use cases are not separated
 
-https://github.com/suzhiyu/atuopayloadtest.git
+Master file  autopayloadtest.py
+
